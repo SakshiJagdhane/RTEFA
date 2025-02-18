@@ -1,2 +1,2 @@
 # RTEFA
-Project to take a surveys during meet
+Project to take a live feedback surveys during meet
